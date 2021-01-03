@@ -1,5 +1,5 @@
 # Schoolmanagement
-![Demo video](https://www.youtube.com/watch?v=30iSu-R_uSA)
+[Demo video](https://www.youtube.com/watch?v=30iSu-R_uSA)
 
 
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
